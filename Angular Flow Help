@@ -1,0 +1,13 @@
+ANGULAR PROJECTS --> Full Fledged Front-End Projects
+ALL HTML Files
+All CSS Files
+All Bootstrap Files
+All JavaScript Files
+All TypeScript Files
+All Images, other dependencies.
+
+1.) Flow for Default Angular Project:
+http://localhost:4200/ --> Angular Server --> app.module.ts --> app.component.ts --> app.component.html --> app.component.css
+
+2.) Flow for First Project(angular-app):
+http://localhost:4200/ --> Angular Server --> app.module.ts --> app.component.ts --> product-list.component.ts --> product-list.component.html
